@@ -1,0 +1,47 @@
+.logo{
+	padding-left:20em;
+	
+
+}
+
+.happy-face{
+	padding-left:5em;
+}
+/* .right-panel{
+	background: yellow;
+	height: 100px;
+}
+
+.left-panel{
+	background: green;
+	height: 100px;
+}
+
+.middle-panel{
+	height: 100px;
+
+} */
+p{
+	margin-right:10em;
+	white-space: pre-wrap;
+
+}
+
+.whitespace{
+	white-space: pre-wrap;
+}
+.highlight{
+	background-color:yellow;
+	width: 50px;
+	height: 10px;
+}
+
+.color{
+	color:red;
+}
+
+.style {
+             font-style: italic;
+             text-decoration: underline;
+            }
+
