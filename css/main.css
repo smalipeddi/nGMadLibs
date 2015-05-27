@@ -1,26 +1,18 @@
-.logo{
-	padding-left:20em;
-	
-
+ .logo{
+	padding-left:12em;
 }
-
+.mast-head{
+	margin-left:50em;
+}
 .happy-face{
-	padding-left:5em;
+    padding-left:25em;
+    width:100px;
+    height:100%;
 }
-/* .right-panel{
-	background: yellow;
-	height: 100px;
+.words{
+	margin-left:15em;
+	background:yellow;
 }
-
-.left-panel{
-	background: green;
-	height: 100px;
-}
-
-.middle-panel{
-	height: 100px;
-
-} */
 p{
 	margin-right:10em;
 	white-space: pre-wrap;
