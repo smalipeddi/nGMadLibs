@@ -1,39 +1,38 @@
- .logo{
-	padding-left:12em;
-}
-.mast-head{
-	margin-left:50em;
-}
-.happy-face{
-    padding-left:25em;
-    width:100px;
-    height:100%;
-}
-.words{
-	margin-left:15em;
-	background:yellow;
-}
-p{
-	margin-right:10em;
-	white-space: pre-wrap;
-
-}
-
-.whitespace{
-	white-space: pre-wrap;
-}
-.highlight{
-	background-color:yellow;
-	width: 50px;
-	height: 10px;
-}
-
-.color{
-	color:red;
-}
-
-.style {
-             font-style: italic;
-             text-decoration: underline;
-            }
-
+ .logo {
+     padding-left: 12em;
+ }
+ .mast-head {
+     margin-left: 50em;
+ }
+ .happy-face {
+     padding-left: 25em;
+     width: 100px;
+     height: 100%;
+ }
+ .submit {
+     margin-left: 40em;
+     padding: 1em;
+     background: yellow;
+ }
+ .word {
+     margin-left: 40px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-right: 10px;
+     padding: 10px;
+     height: 10px;
+ }
+ p {
+     white-space: pre-wrap;
+     margin-left: 100px;
+     margin-right: 100px;
+     border: 1px solid blue;
+     box-sizing: border-box;
+     background: pink;
+     margin-top: 10px;
+     padding: 10px;
+     font-size: 2em;
+ }
+ span {
+     text-decoration: underline;
+ }
