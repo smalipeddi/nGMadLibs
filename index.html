@@ -23,13 +23,21 @@
             <span> Automate This !</span>
          </div>
       </div>
+   
+   <h1 > BICYCLE RIDING </h1>
+
+
+
+
       <div class="row" >
+      <div class="keywords">
          <div   data-ng-repeat="k in keywords" class="col-sm-3" >
             <input class="word" type={{k.type}} placeholder={{k.ph}} data-ng-model="k.value" required>
          </div>
          <div class="col-sm-4">
             <button  class="submit"  ng-click="save()">Generate MadLibs </button>
          </div>
+        </div>
       </div>
       <div class="row">
          <div  ng-hide="myVar"  class="words" class="col-sm-6">
